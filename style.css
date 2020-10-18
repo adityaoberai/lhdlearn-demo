@@ -1,0 +1,30 @@
+body {
+  font-family: "Open Sans", helvetica, arial, sans-serif;
+  margin: 3vw;
+}
+
+h1 {
+  color: red;
+}
+
+h2 {
+  color: blue;
+}
+
+.abt {
+  text-align: left;
+}
+
+.main {
+
+}
+
+.abt, .proj {
+  width: 40vw;
+}
+
+img {
+
+  margin: 3vh 0;
+  text-align: right;
+}
